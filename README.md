@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=80&color=FBAF23&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Fiza+Yasmeen)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=120&color=FBAF23&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Fiza+Yasmeen)
 
 ### 💻 Software Developer | MERN Stack | Java Enthusiast
 
