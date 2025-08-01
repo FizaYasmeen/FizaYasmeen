@@ -9,23 +9,16 @@ Welcome to my GitHub! I'm a passionate developer who loves building clean, scala
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Axios | Redux Toolkit
+`HTML` • `CSS` • `JavaScript (ES6+)` • `React.js` •  `Redux Toolkit` • `Axios`
 
 ### 🧠 Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication & RBAC
+`Node.js` • `Express.js` • `RESTful APIs` • `JWT Authentication` 
 
 ### 🛢️ Database
-- MongoDB (Mongoose)
-- Firebase (Basics)
+`MongoDB (Mongoose)` • `SQL`  
 
 ### 🔍 Other Tools
-- Git & GitHub
-- VS Code
+`Git & GitHub` • `VS Code`
 
 ### ☕ Core Programming
 - Java (OOPs, Collections, Exception Handling)
@@ -38,19 +31,3 @@ Welcome to my GitHub! I'm a passionate developer who loves building clean, scala
 ---
 
 Thanks for visiting! ⭐ Feel free to explore my repositories and leave a star if something helps you!
-
-
-<!--
-**FizaYasmeen/FizaYasmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
