@@ -1,4 +1,6 @@
-![Welcome](https://img.shields.io/badge/Hi-I'm%20Fiza%20Yasmeen!-gold?style=for-the-badge&logo=Handshake&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=100&color=FBAF23&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Fiza+Yasmeen)
+
+### 💻 Software Developer | MERN Stack | Java Enthusiast
 
 Welcome to my GitHub! I'm a passionate developer who loves building clean, scalable, and performance-driven applications. Currently focused on full-stack web development with the **MERN stack** and solid programming foundations in **Java**.
 
