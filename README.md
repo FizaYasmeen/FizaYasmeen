@@ -11,18 +11,14 @@ Welcome to my GitHub! I'm a passionate developer who loves building clean, scala
 ### 🌐 Frontend
 `HTML` • `CSS` • `JavaScript (ES6+)` • `React.js` •  `Redux Toolkit` • `Axios`
 
-### 🧠 Backend
-`Node.js` • `Express.js` • `RESTful APIs` • `JWT Authentication` 
-
-### 🛢️ Database
-`MongoDB (Mongoose)` • `SQL`  
+### 🧠 Backend & Database
+`Node.js` • `Express.js` • `RESTful APIs` • `JWT Authentication` • `MongoDB (Mongoose)` • `SQL` 
 
 ### 🔍 Other Tools
 `Git & GitHub` • `VS Code`
 
 ### ☕ Core Programming
-- Java (OOPs, Collections, Exception Handling)
-- Data Structures & Algorithms (Leetcode)
+`Java (OOPs, Collections, Exception Handling)` • `Data Structures & Algorithms (Leetcode)`
 
 ## 📫 Let's Connect!
 - 📧 Email: er.fizayasmeen@gmail.com
